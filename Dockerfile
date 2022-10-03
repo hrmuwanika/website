@@ -1,4 +1,4 @@
-FROM debian:bullseye
+FROM buildpack-deps:stretch
 MAINTAINER ASM Technologies <info@asm.rw>
 
 # update
